@@ -2,7 +2,7 @@ numbers=[]
 szamok_osszege=0
 
 while True:
-    num=int(input('input(Adj meg egy egész számot a [-5,5] intervallumon! '))
+    num=int(input('Adj meg egy egész számot a [-5,5] intervallumon! '))
     if num<-5 or num>5:
         break
     else:
